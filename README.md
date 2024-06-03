@@ -1,2 +1,2 @@
-# Unicorn Pacman
+# Pacman
 
